@@ -82,3 +82,75 @@ span{
 .img{
     margin-top: 63px;
 }
+.our {
+    margin-top: 200px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FF2D59;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.the {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 42px;
+    text-align: center;
+    letter-spacing: -0.1px;
+    color: #111029;
+    margin-bottom: 60px;
+}
+
+.va {
+    width: 352px;
+    text-align: center;
+    height: 458px;
+    background: #4C40F7;
+    box-shadow: -10px 30px 70px rgba(76, 64, 247, 0.5);
+    border-radius: 20px;
+}
+
+.ardimg1 {
+    margin-top: 44px;
+}
+
+.ideate {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.wer {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: #FFFFFF;
+    margin-bottom: 44px;
+}
+
+.ard {
+    margin-bottom: 60px;
+    width: 352px;
+    text-align: center;
+    height: 458px;
+    background: #FFFFFF;
+    box-shadow: -10px 30px 70px rgba(219, 222, 225, 0.4);
+    border-radius: 20px;
+
+}
+
+.and {
+    color: #111029;
+}
+
+.or {
+    color: #6B6B6B;
+    text-align: center;
+}
