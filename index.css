@@ -154,3 +154,31 @@ span{
     color: #6B6B6B;
     text-align: center;
 }
+.sec0{
+    padding-top: 200px;
+    padding-bottom: 210px;  
+}
+.mayda{
+    font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+text-align: center;
+color: #FF2D59;
+}
+.kak{
+    font-weight: 600;
+font-size: 48px;
+line-height: 56px;
+/* or 133% */
+
+text-align: center;
+letter-spacing: -0.1px;
+
+/* Text/Dark */
+
+color: #111029;
+}
+.vi{
+    margin-top: 60px;
+    width: 100%;
+}
