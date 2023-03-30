@@ -1,13 +1,15 @@
-*{
+* {
     margin: 0;
     padding: 0;
     list-style: none;
 }
-body{
+
+body {
     font-family: 'Poppins', sans-serif;
 
 }
-.list-item{
+
+.list-item {
     font-weight: 600;
     font-size: 20px;
     line-height: 28px;
@@ -18,7 +20,8 @@ body{
     margin-left: 70px;
     margin-top: 30px;
 }
-.list-item:hover{
+
+.list-item:hover {
     font-weight: 600;
     font-size: 20px;
     line-height: 28px;
@@ -28,11 +31,13 @@ body{
     color: #4C40F7;
 
 }
-.ux{
+
+.ux {
     display: flex;
     justify-content: center;
 }
-.btn1{
+
+.btn1 {
     font-weight: 600;
     font-size: 16px;
     line-height: 26px;
@@ -42,23 +47,26 @@ body{
     padding: 19px 35px;
     border: none;
     margin-top: 20px;
-    
-   
+
+
 }
-.make{
+
+.make {
     font-weight: 600;
     font-size: 56px;
     line-height: 72px;
     color: #111029;
     margin-top: 93px;
 }
-span{
+
+span {
     font-weight: 600;
     font-size: 56px;
     line-height: 72px;
     color: #e8ae0e;
 }
-.we{
+
+.we {
     font-weight: 400;
     font-size: 18px;
     line-height: 32px;
@@ -67,7 +75,8 @@ span{
     color: #6B6B6B;
     margin-top: 24px;
 }
-.get{
+
+.get {
     font-style: normal;
     font-weight: 600;
     font-size: 16px;
@@ -79,9 +88,11 @@ span{
     border: none;
     margin-top: 24px;
 }
-.img{
+
+.img {
     margin-top: 63px;
 }
+
 .our {
     margin-top: 200px;
     font-family: 'Poppins';
@@ -154,31 +165,200 @@ span{
     color: #6B6B6B;
     text-align: center;
 }
-.sec0{
+
+.sec0 {
     padding-top: 200px;
-    padding-bottom: 210px;  
+    padding-bottom: 210px;
 }
-.mayda{
+
+.mayda {
     font-weight: 600;
-font-size: 20px;
-line-height: 28px;
-text-align: center;
-color: #FF2D59;
+    font-size: 20px;
+    text-align: center;
+    color: #FF2D59;
 }
-.kak{
+
+.kak {
     font-weight: 600;
-font-size: 48px;
-line-height: 56px;
-/* or 133% */
-
-text-align: center;
-letter-spacing: -0.1px;
-
-/* Text/Dark */
-
-color: #111029;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: -0.1px;
+    color: #111029;
 }
-.vi{
+
+.vi {
     margin-top: 60px;
     width: 100%;
 }
+
+/* Quvonchbek */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a {
+    margin: 0;
+    padding: 0;
+}
+
+.quvonchbek-main {
+    background: #F9F9FD;
+    padding-top: 155px;
+    padding-bottom: 105px;
+}
+
+.card-quvonchbek {
+    background: #FFFFFF;
+    box-shadow: 0px 25px 100px rgba(76, 64, 247, 0.08);
+    border-radius: 20px;
+    display: inline-block;
+    padding: 60px 28px 60px 28px;
+}
+
+.k-text-quvonchbek {
+    font-weight: 600;
+    font-size: 56px;
+    text-align: center;
+    letter-spacing: -0.4px;
+    margin-bottom: 20px;
+    width: 214px;
+    text-align: center;
+}
+
+.poragraf-quvonchbek {
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #111029;
+    opacity: 0.7;
+    width: 214px;
+    text-align: center;
+}
+
+.c1-quvonchbek {
+    color: #4C40F7;
+}
+
+.c2-quvonchbek {
+    color: #FF6800;
+}
+
+.c3-quvonchbek {
+    color: #FF2D59;
+}
+
+.c4-quvonchbek {
+    color: #4ADB61;
+}
+
+.mt-quvonchbek {
+    margin-top: 80px;
+}
+
+.mt---- {
+    margin-top: 40px;
+}
+
+.heading-quvonchbek {
+    font-weight: 600;
+    font-size: 56px;
+    letter-spacing: -0.4px;
+    color: #111029;
+}
+
+.txt-quvonchbek {
+    font-weight: 400;
+    font-size: 18px;
+    color: #6B6B6B;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.p-quvonchbek {
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+.fa-solid {
+    margin-right: 15px;
+    font-size: 20px;
+}
+
+.mb---- {
+    margin-bottom: 16px;
+}
+
+.space-quvonchbek {
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    color: #FF3B2F;
+    margin-top: 200px;
+}
+
+.h1-quvonchbek {
+    font-weight: 600;
+    font-size: 42px;
+    text-align: center;
+    letter-spacing: -0.1px;
+    color: #111029;
+    margin-top: 20px;
+    margin-bottom: 55px;
+}
+
+.section-quvonchbek {
+    background: #ECECEC;
+}
+
+.min-card-quvonchbek {
+    padding: 350px 0 17px 25px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px
+}
+
+.big-card-quvonchbek {
+    padding: 500px 0 17px 25px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px
+}
+
+.bg-1 {
+    background-image: url(./img/Image\ 1.png);
+}
+
+.bg-2 {
+    background-image: url(./img/Image\ 2.png);
+}
+
+.bg-3 {
+    background-image: url(./img/Image\ 3.png);
+}
+
+.bg-4 {
+    background-image: url(./img/Image\ 4.png);
+}
+
+.bg-5 {
+    background-image: url(./img/Image\ 5.png);
+}
+
+.bg-6 {
+    background-image: url(./img/Image\ 6.png);
+}
+
+.card-txt-quvonchbek {
+    font-weight: 400;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+/* Quvonchbek */
