@@ -192,7 +192,6 @@ span {
 }
 
 /* Quvonchbek */
-
 h1,
 h2,
 h3,
@@ -361,4 +360,66 @@ a {
     color: #FFFFFF;
 }
 
+.res-quvonchbek {
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 575px) {
+    .res-quvonchbek {
+        display: block;
+    }
+
+    .mt---- {
+        margin: 0;
+    }
+
+    .k-text-quvonchbek,
+    .poragraf-quvonchbek {
+        width: auto;
+    }
+
+    .card-quvonchbek {
+        width: 100%;
+        text-align: center;
+        padding: 25px 0 25px 0;
+        margin-top: 40px;
+    }
+
+    .quvonchbek-main {
+        padding-top: 30px;
+        padding-bottom: 55px;
+    }
+
+    .heading-quvonchbek {
+        font-size: 20px;
+        margin-top: 60px;
+    }
+
+    .txt-quvonchbek {
+        font-size: 13px;
+    }
+
+    .p-quvonchbek {
+        font-size: 12px;
+    }
+
+    .fa-solid {
+        font-size: 14px;
+    }
+
+    .space-quvonchbek {
+        font-size: 16px;
+        margin-top: 55px;
+    }
+
+    .h1-quvonchbek {
+        font-size: 24px;
+    }
+
+    .big-card-quvonchbek,
+    .min-card-quvonchbek {
+        margin-bottom: 1.5rem;
+    }
+}
 /* Quvonchbek */
